@@ -1,0 +1,68 @@
+.header{
+	height: 200px;
+	background-color: royalblue;
+	border: teal 4px solid;
+}
+.wrapper{
+overflow: hidden;
+
+}
+.contact{
+	float: left;
+	width: 50%;
+height: 300px;
+border: teal 4px solid;
+background-color: green ;
+box-sizing: border-box;
+
+}
+.blog{
+	float: right;
+	width: 50%;
+	height: 300px;
+	border: teal 4px solid;
+	background-color:darkblue ;
+box-sizing: border-box;
+
+}
+.block{
+	width: 33.33%;
+	height: 200px;
+	float: left;
+	border: teal 4px solid;
+	box-sizing: border-box;
+
+}
+.blue{
+background-color:skyblue ;
+}
+.red{
+background-color: red;
+}
+.yellow{
+background-color:yellowgreen;	
+}
+.box{
+	width: 35%;
+	height: 200px;
+	float: left;
+	border: teal 4px solid;
+	box-sizing: border-box;
+}
+.violet{
+background-color: violet;
+}
+.red{
+background-color: steelblue;
+}
+.darkblue{
+	background-color:lightblue ;
+}
+.yellowgreen{
+	background-color:yellow;
+}
+.footer{
+	background-color: blue;
+	height: 200px;
+	border: teal 4px solid;
+}
